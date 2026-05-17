@@ -1,0 +1,13 @@
+# RainStorage
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**natural_id** | **str** |  | [optional] 
+**name** | **str** |  | [optional] 
+**type** | **str** |  | [optional] 
+**ticker** | **str** |  | [optional] 
+**amount** | **int** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
